@@ -1,0 +1,49 @@
+*{
+
+    background-color: rgb(207, 243, 243);
+    font-family:'Times New Roman', Times, serif;
+    
+    }
+    
+    .header {
+    background-color: rgb(150, 223, 228);
+    position: relative;
+    text-align: center;
+    
+    
+    }
+    
+    .workExperience {
+    font-size: larger;
+    }
+    
+    .bodysection {
+    justify-content: left;
+    text-align: left;
+    padding: 25px;
+    margin: 40px;
+    }*{
+
+        background-color: rgb(207, 243, 243);
+        font-family:'Times New Roman', Times, serif;
+        
+        }
+        
+        .header {
+        background-color: rgb(150, 223, 228);
+        position: relative;
+        text-align: center;
+        
+        
+        }
+        
+        .workExperience {
+        font-size: larger;
+        }
+        
+        .bodysection {
+        justify-content: left;
+        text-align: left;
+        padding: 25px;
+        margin: 40px;
+        }
